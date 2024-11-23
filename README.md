@@ -10,21 +10,23 @@
     </p>
   </h2> 
   
-  <h2> Front & Back End Tools: </h2>
+  <h2> Front & Back End Tools: 
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs," />
     </a>
   </p>
+  </h2>
   
-  <h2> Version Control & Other Tools: </h2> 
+  <h2> Version Control & Other Tools:  
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,github,vscode" />
     </a>
   </p>
+  </h2>
   
-  ## Contact Me: 
+  <h2> Contact Me: 
   <p align="center">
     <a href="https://www.linkedin.com/in/jordan-dunn-bb5754283/">
       <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -33,6 +35,7 @@
       <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
   </p>
+  </h2>
 
 
 
