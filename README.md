@@ -7,7 +7,7 @@
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,py" />
     </a>
-  </p><\br>
+  </p> <br />
   
   <h2> Front & Back End Tools: </h2>
   <p align="center">
