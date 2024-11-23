@@ -2,8 +2,11 @@
 
 <div id="abc">
   <ul align="center" style="list-style: none;">
-    <summary>
-      <h1> Technologies and Tools: </h1> <br/>
+    <details>
+      <summary style="none">
+  <h1> Technologies and Tools: </h1> 
+      </summary>
+    </details> 
      
    <h2> Languages: </h2> 
       <p align="center"> 
@@ -35,9 +38,10 @@
          <img src="https://skillicons.dev/icons?i=gmail" />
        </a>
      </p>
-    </summary>
   </ul>
 </div>
+
+
  
 
 
