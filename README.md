@@ -1,13 +1,13 @@
 ## Hi, I'm Jordan Dunn. 👋
 
 <h1> Technologies and Tools: </h1> 
-<div>
+
   <h2> Languages: </h2>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,py" />
     </a>
-  </p>
+  </p><\br>
   
   <h2> Front & Back End Tools: </h2>
   <p align="center">
