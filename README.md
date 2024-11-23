@@ -2,13 +2,13 @@
 
 <h1> Technologies and Tools: </h1> 
 
-  <h2> Languages: </h2> <br/>
-  <p align="center"> <br/>
-    <a href="https://skillicons.dev"> <br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,py" /> <br/>
-    </a> <br/>
-  </p> <br/>
-  
+  <h2> Languages:  
+  <p align="center"> 
+    <a href="https://skillicons.dev"> 
+      <img src="https://skillicons.dev/icons?i=html,css,js,py" /> 
+    </a> 
+  </p> 
+ </h2> 
   <h2> Front & Back End Tools: </h2> <br />
   <p align="center">
     <a href="https://skillicons.dev">
