@@ -1,6 +1,6 @@
 ## Hi, I'm Jordan Dunn. 👋
 
-<h1> Technologies and Tools: </h1> 
+<h1> Technologies and Tools:  
 
   <h2> Languages:  
     <p align="center"> 
@@ -36,6 +36,7 @@
     </a>
   </p>
   </h2>
+ </h1>
 
 
 
