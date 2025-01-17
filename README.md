@@ -31,7 +31,7 @@
          
    <h2> Contact Me: </h2>
      <p align="center">
-       <a href="https://www.linkedin.com/in/jordan-dunn-bb5754283/">
+       <a href="www.linkedin.com/in/jordandunndeveloper">
          <img src="https://skillicons.dev/icons?i=linkedin" />
        </a>
        <a href="https://mail.google.com/mail/u/5/#inbox?compose=GTvVlcRwQLxwtzsNfzjNzXpsBlGnBmkjvWssnnVzkkpcXnrHTQzBCmDTkrBkBXnQCqZSCrLwvvQbc">
