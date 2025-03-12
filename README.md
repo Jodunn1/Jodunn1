@@ -11,8 +11,17 @@
    <h2> Languages: </h2> 
       <p align="center"> 
         <a href="https://skillicons.dev"> 
-          <img src="https://skillicons.dev/icons?i=html,css,js,py" /> 
+          <img src="https://skillicons.dev/icons?i=html" /> 
         </a> 
+        <a href="https://skillicons.dev"> 
+          <img src="https://skillicons.dev/icons?i=css" /> 
+        </a>
+        <a href="https://skillicons.dev"> 
+          <img src="https://skillicons.dev/icons?i=js" /> 
+        </a>
+        <a href="https://skillicons.dev"> 
+          <img src="https://skillicons.dev/icons?i=py" /> 
+        </a>
       </p>
       
    <h2> Front & Back End Tools: </h2>
@@ -24,7 +33,7 @@
       
    <h2> Version Control & Other Tools: </h2>
      <p align="center">
-       <a href="https://code.visualstudio.com/">
+       <a href="https://skillicons.dev">
          <img src="https://skillicons.dev/icons?i=git,github,vscode" />
        </a>
      </p>
