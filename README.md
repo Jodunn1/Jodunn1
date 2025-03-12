@@ -24,7 +24,7 @@
       
    <h2> Version Control & Other Tools: </h2>
      <p align="center">
-       <a href="https://skillicons.dev">
+       <a href="https://code.visualstudio.com/">
          <img src="https://skillicons.dev/icons?i=git,github,vscode" />
        </a>
      </p>
