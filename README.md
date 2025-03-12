@@ -10,31 +10,43 @@
      
    <h2> Languages: </h2> 
       <p align="center"> 
-        <a href="https://skillicons.dev"> 
+        <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
           <img src="https://skillicons.dev/icons?i=html" /> 
         </a> 
-        <a href="https://skillicons.dev"> 
+        <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
           <img src="https://skillicons.dev/icons?i=css" /> 
         </a>
-        <a href="https://skillicons.dev"> 
+        <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
           <img src="https://skillicons.dev/icons?i=js" /> 
         </a>
-        <a href="https://skillicons.dev"> 
+        <a target="_blank" href="https://www.python.org/"> 
           <img src="https://skillicons.dev/icons?i=py" /> 
         </a>
       </p>
       
    <h2> Front & Back End Tools: </h2>
     <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,bootstrap,nodejs," />
+      <a target="_blank" href="https://react.dev/">
+        <img src="https://skillicons.dev/icons?i=react" />
+      </a>
+      <a target="_blank" href="https://getbootstrap.com/">
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+      </a>
+      <a target="_blank" href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" />
       </a>
     </p>
       
    <h2> Version Control & Other Tools: </h2>
      <p align="center">
-       <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+       <a target="_blank" href="https://git-scm.com/">
+         <img src="https://skillicons.dev/icons?i=git" />
+       </a>
+       <a target="_blank" href="https://github.com/">
+         <img src="https://skillicons.dev/icons?i=github" />
+       </a>
+       <a target="_blank" href="https://code.visualstudio.com/">
+         <img src="https://skillicons.dev/icons?i=vscode" />
        </a>
      </p>
          
